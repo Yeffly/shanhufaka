@@ -25,7 +25,7 @@ laravel内核版本：5.5+
 
 交流QQ群：568679748 （为防止部分灌水及广告加入，已设置5元入群费用）    
 
-视频教程：[https://share.weiyun.com/5YsenZt][2]  
+视频教程：[https://share.weiyun.com/5IcucZU][2]  
 
 鸣谢：`Laravel`、`Laravel-admin`等优秀开源项目 
 
@@ -116,5 +116,5 @@ LOGO图片及前端静态资源在根目录：`public/dist/static`
 
 
   [1]: https://shanhufk.com
-  [2]: https://share.weiyun.com/5YsenZt
+  [2]: https://share.weiyun.com/5IcucZU
   [3]: https://shanhufk.com
